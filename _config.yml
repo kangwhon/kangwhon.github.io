@@ -6,32 +6,18 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Kang Whon Lee
+name: 백엔드 개발자를 꿈꾸는 이강훈입니다
 title: Student, Hallym University
 email: kangwhon@naver.com
 # email_title: Email (Email title override)
-phone: 010-8628-5119
 # phone_title: Phone (Phone title override)
-website: www.github.com/kangwhon/kangwhon.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-aPKstackoverflow_username: "00000001"
-driaPKbbble_username: jekyll
-faceboaPKaPKaPKok_username: jekyll
-flickr_usernameaPKaPKaPKaPKaPK: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+github_username:  kangwhon
 
 # Additional icon links
 additional_links:
@@ -52,6 +38,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/KakaoTalk_20220316_174040819.jpg
 about_content: | # this will include new lines to allow paragraphs
+  안녕하세요! aC:
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
