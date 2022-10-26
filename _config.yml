@@ -21,10 +21,10 @@ darkmode: false
 # Social links
 twitter_username: jekyllrb
 github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
+aPKstackoverflow_username: "00000001"
+driaPKbbble_username: jekyll
+faceboaPKaPKaPKok_username: jekyll
+flickr_usernameaPKaPKaPKaPKaPK: jekyll
 instagram_username: jekyll
 linkedin_username: jekyll
 xing_username: jekyll
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/KakaoTalk_20220316_174040819.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
