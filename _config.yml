@@ -47,9 +47,6 @@ about_content: | # this will include new lines to allow paragraphs
     - Python
     - R
     - c 
-  - 관심있는 사이트
-    - <"youtube.com">유튜브</a>
-    - <"google.co.kr">구글</a>
 
 content:
   - title: Projects # Title for the section
@@ -59,12 +56,9 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 빌리지 어플 개발
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        lin: https://github.com/dudcks5477/village-alpha (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
