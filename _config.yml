@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: 빅데이터전공   이강훈
+name: 빅데이터 이강훈
 title: Student, Hallym University
 email: kangwhon@naver.com
 # email_title: Email (Email title override)
