@@ -48,8 +48,8 @@ about_content: | # this will include new lines to allow paragraphs
     - R
     - c 
   - 관심있는 사이트
-    - <a href="youtube.com">유튜브</a>
-    - <a href="google.com">구글</a>
+    - <"youtube.com">유튜브</a>
+    - <"google.co.kr">구글</a>
 
 content:
   - title: Projects # Title for the section
@@ -85,7 +85,7 @@ content:
         quote: >
      
         description: | # this will include new lines to allow paragrap
-          패스트 캠퍼스에서 강의를 구매하여 매일 계획한 시간의 강의를 듣고 복습하면서 프로젝트를
+          패스트 캠퍼스에서 강의를 구매하여 매일 계획한 시간에 강의를 듣고 복습하면서 프로젝트를
           제작중에있다.
 
   - title: A Little More About Me
