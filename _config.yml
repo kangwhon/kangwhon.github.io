@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: 백엔드 개발자를 꿈꾸는 이강훈입니다
+name: 빅데이터전공 이강훈
 title: Student, Hallym University
 email: kangwhon@naver.com
 # email_title: Email (Email title override)
@@ -38,7 +38,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/KakaoTalk_20220316_174040819.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요! aC:
+  안녕하세요! 백엔드 개발을 공부중인 대학생입니다.
+
+  - 취미 : 노래방 가기, 게임, 영화, 드라마 보기
+  - 군필 여부 : 대한민국 육군 병장 만기 전역
+  - 사용 가능 언어
+    - Java
+    - Python
+    - R
+    - c 
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -54,7 +62,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: 빌리지 어플 개발
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -67,7 +75,10 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          * mgc 창업동아리에서 프로젝트 진행중
+            - 인원 : 4명
+            - 포지션 : 백엔드
+            - 진행사항 : 로그인/회원가입 구현, gps기능 구현
   - title: Experience
     layout: list
     content:
@@ -84,19 +95,18 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
+        title: 오픈소스 sw개발도구 활용
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          오픈 소스를 활용하는 법과 다양한 오픈소스플랫폼에 대해서 공부중
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+       공대 수업과 진로에 관심이 생겨 2학년 때 이후로 전과를 하여 지금까지 공부중인데 열심히 노력하여 
+       지금까지 평균 4점대를 유지중이며 앞으로의 진로를 위해 한발짝 전진중이다.
 
 # Footer
 footer_show_references: true
